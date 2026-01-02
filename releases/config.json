@@ -1,0 +1,6 @@
+{
+    "interval": 5,
+    "cpu_threshold": 85,
+    "mem_threshold": 80,
+    "disk_threshold": 90
+}
